@@ -1,21 +1,26 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:ce5b1bac-bd21-45c3-b74a-ee108752083a'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2015-11-19T17:03:11.772Z'
+dateModified: '2015-11-19T17:03:10.210Z'
 author: []
-datePublished: '2015-11-19T04:29:10.569Z'
-publisher:
-  domain: ''
-  name: ''
 title: Seedlings
-dateModified: '2015-11-19T04:25:27.058Z'
 sourcePath: _posts/2015-11-19-seedlings.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: seedlings/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# Seedlings
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef277a4b-fc91-4bbb-8475-d72baa9d2b02.png)
+# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef277a4b-fc91-4bbb-8475-d72baa9d2b02.png)
