@@ -1,0 +1,23 @@
+name: Motes Orchids
+favicon: null
+layout_spectrum: 0.5589024857617915
+typography_spectrum: 0.34571726177819073
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5208321423269808
+  lightness: 0.8545296017546207
+  saturation: 0.04306066036224365
+  rhythmicContrast: 0.894208632176742
+purpose: []
