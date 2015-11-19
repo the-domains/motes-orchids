@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'urn:uuid:2208b9da-92a9-42a9-b59b-493d14d7a5b3'
+isBasedOnUrl: 'urn:uuid:4d04d64d-b76d-4520-819f-5494bfac0105'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-19T17:02:44.697Z'
-dateModified: '2015-11-19T16:56:56.450Z'
+datePublished: '2015-11-19T17:02:52.257Z'
+dateModified: '2015-11-19T16:57:22.040Z'
 author: []
 title: Tessellata x John de Biase
 sourcePath: _posts/2015-11-19-tessellata-x-john-de-biase.md
@@ -23,4 +23,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2b5d7a8-96e2-4ec1-b52f-6fb93b31f067.png)
+# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b2d7f73-4c1a-4955-876b-97fe3399bfa3.png)
