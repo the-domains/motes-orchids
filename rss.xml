@@ -4,8 +4,15 @@
         <description><![CDATA[Motes Orchids]]></description>
         <link>https://thegrid.ai/motes-orchids/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 Nov 2015 02:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2015 05:51:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/motes-orchids/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[V. tessellata “T Orchids” HCC x Perr. Norma’s Sunset AM ]]></title>
+            <description><![CDATA[<article><h1>V. tessellata “T Orchids” HCC x Perr. Norma’s Sunset AM </h1><p>V. tessellata “T Orchids” HCC x Perr. Norma’s Sunset AM</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0597cf2-d8a8-4d7e-b1ee-c9741c7f7286.png"></article>]]></description>
+            <link>https://thegrid.ai/motes-orchids/v-tessellata-t-orchids-hcc-x-perr-normas-sunset-am/index.html</link>
+            <guid isPermaLink="false">8389a0ed-fc7b-4e44-a431-963f12370548</guid>
+            <pubDate>Fri, 20 Nov 2015 05:51:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d15a123-fa7a-497f-bbfc-21dca54c4696.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/motes-orchids/tessellata-x-john-de-biase/index.html</link>
             <guid isPermaLink="false">be3ed9f2-016b-49ff-b707-e71397bc3b00</guid>
             <pubDate>Thu, 19 Nov 2015 04:29:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tessellata x John de Biase]]></title>
-            <description><![CDATA[<article><h1></h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b2d7f73-4c1a-4955-876b-97fe3399bfa3.png"></article>]]></description>
-            <link>urn:uuid:4d04d64d-b76d-4520-819f-5494bfac0105</link>
-            <guid isPermaLink="false">dd284575-c099-4f1b-8faa-eee0b93b8ed6</guid>
-            <pubDate>Thu, 19 Nov 2015 17:02:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
