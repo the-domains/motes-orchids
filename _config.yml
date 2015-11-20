@@ -1,6 +1,6 @@
 name: Motes Orchids
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.93167
 typography_spectrum: 0.34571726177819073
 title: Motes Orchids
 cta:
@@ -24,6 +24,6 @@ color:
     - '#c8c2d4'
   brandStrength: 0.125
   lightness: 0.8545296017546207
-  saturation: 0.04306066036224365
-  rhythmicContrast: 0.894208632176742
+  saturation: 0.0625
+  rhythmicContrast: 0.75
 purpose: []
